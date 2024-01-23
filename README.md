@@ -28,3 +28,9 @@ OpenAI for developers provides cutting-edge AI tools and models, such as GPT-3.5
 6) TypeScript:
 
 TypeScript, a Microsoft-developed superset of JavaScript, adds static typing for enhanced code reliability. Offering object-oriented features, seamless JavaScript compatibility, and robust tooling support, TypeScript facilitates scalable and maintainable web development. Its transpilation process catches errors early, promoting a smoother development experience, while its community and ecosystem continue to thrive.
+
+7) React Beautiful DnD:
+
+React Beautiful Dnd (Drag and Drop) is a powerful and flexible library that enables seamless drag-and-drop functionality in React applications. Developed by Atlassian, it simplifies the implementation of complex drag-and-drop interactions, making it easy for developers to create intuitive and visually appealing user interfaces. At its core, React Beautiful Dnd provides a set of components and utilities that manage the state and logic of draggable and droppable elements. The library seamlessly integrates with React, allowing developers to build dynamic and interactive interfaces without the need for extensive manual handling of drag-and-drop events.
+
+
